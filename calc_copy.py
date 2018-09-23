@@ -10,17 +10,8 @@ def multiply(x,y):
 def divide(x,y):
     return x/y
 
-def nunfunct():
-    return
-
 def square(x):
     return x*x
 
 def cube(x)
     return square(x)*x
-
-def nofunc2():
-    return
-
-def nofunc3():
-    return
