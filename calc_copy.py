@@ -21,3 +21,6 @@ def cube(x)
 
 def nofunc2():
     return
+
+def nofunc3():
+    return
