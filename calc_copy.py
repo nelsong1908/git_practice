@@ -12,3 +12,6 @@ def divide(x,y):
 
 def nunfunct():
     return
+
+def square(x):
+    return x*x
