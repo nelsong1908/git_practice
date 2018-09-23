@@ -15,3 +15,6 @@ def nunfunct():
 
 def square(x):
     return x*x
+
+def cube(x)
+    return square(x)*x
