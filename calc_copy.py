@@ -18,3 +18,6 @@ def cube(x)
 
 def nofunc():
     return
+def quad:(x)
+    return cube(x)*x
+    
