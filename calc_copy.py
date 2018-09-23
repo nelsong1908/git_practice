@@ -18,3 +18,6 @@ def square(x):
 
 def cube(x)
     return square(x)*x
+
+def nofunc2():
+    return
